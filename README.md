@@ -10,7 +10,8 @@ The dataset used for this analysis includes the following key fields:
 - **experience_level**: Categories include Entry-level, Intermediate, Senior, and Expert.
 - **employment_type**: Employment types such as Full-time, Contract, Freelance, or Part-time.
 - **job_title**: Data Science-related roles.
-- **salary & salary_currency**: Original salary and its currency.
+- **salary**: Salary in original currency.
+- **salary_currency**: Currency of the salary.
 - **salary_in_usd**: Salary converted to USD for comparison.
 - **employee_residence**: The country where the employee resides.
 - **remote_ratio**: Percentage of remote work (0 = On-site, 50 = Hybrid, 100 = Fully Remote).
